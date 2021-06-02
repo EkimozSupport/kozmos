@@ -1,4 +1,4 @@
-# Infinity Bots (https://t.me/Infinity_Bots)
+# Owner Mehmetbaba06 - @EfsaneStar Okadar Olsun Benim adım olsun. 
 
 import os
 import aiohttp
