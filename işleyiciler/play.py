@@ -108,7 +108,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Channel",
-                        url="https://t.me/Sohbetlobisi")
+                        url="https://t.me/RgSohbet")
                    
                 ]
             ]
@@ -134,7 +134,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="Channel",
-                            url=f"https://t.me/Sohbetlobisi")
+                            url=f"https://t.me/RgBotSupport")
 
                     ]
                 ]
