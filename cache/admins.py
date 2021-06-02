@@ -1,3 +1,4 @@
+# Burda gördüklerinizi ben yazmadım ama uğraştım bro @EfsaneStar telegramdayım 
 from typing import List, Dict, Union
 
 
