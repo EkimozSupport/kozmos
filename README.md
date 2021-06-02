@@ -6,27 +6,27 @@
   <img src="https://telegra.ph/file/210a6cf99422cdd2d2902.jpg">
 </p>
 
-<h3>Requirements 📝</h3>
+<h3>Gereksinimler 📝</h3>
 
-- FFmpeg
+- FFmpeg 
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
 ### Komutlar 🛠
-#### For all in group
-- `/play` - reply to youtube url or song file to play song
-- `/play <song name>` - play song you requested
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
+#### Gruptaki herkes için 
+- `/play` - şarkı çalmak için youtube url'sine veya şarkı dosyasına yanıt verme 
+- `/play <Müzik ismi>` - istediğiniz şarkıyı çal 
+- `/song <Müzik ismi>` - istediğiniz şarkıları hızlı bir şekilde indirin 
+- `/search <sorgu>` - youtube'da ayrıntıları içeren videoları arama 
 
-#### Admins only
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - Müzik botu kapanır. 
+#### Yalnızca yöneticiler 
+- `/pause` - Müzik duraklar kısa süreliğine.
+- `/resume` - Müzik Akışı devam eder. 
+- `/skip` - Müzik atlatılır. 
+- `/end` - Müzik akışı kapanır. 
 
-### Deploy To Heroku</h4>
+### Heroku'ya Dağıt</h4>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Infinity-Bots/GroupMusicPlayerBot)
 
