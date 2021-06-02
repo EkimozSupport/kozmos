@@ -1,3 +1,4 @@
+# Bakınız burası baya meşakkatli düzgün kodlama yapalım hadi. 
 from os import path
 
 from pyrogram import Client, filters
