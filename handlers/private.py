@@ -18,17 +18,17 @@ Bu uygulamayı grubunuza ekleyin ve özgürce müzik çalın!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Katkıda bulunan 👨‍💻", url="https://t.me/mehmett_12")
+                        " Katkıda bulunan 👨‍💻", url="https://t.me/mehmett_12")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Sohbet Group", url="https://t.me/sohbetskyfall"
+                        " Sohbet Group 💬", url="https://t.me/sohbetskyfall"
                     ),
                     InlineKeyboardButton(
                         " Uygulama sahibi 👨‍💻", url="https://t.me/Efsanestar"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        " Support group 🎛️", url="https://t.me/Sohbetlobisi"
                     )]
             ]
         ),
