@@ -1,3 +1,4 @@
+# Owner Mehmetbaba06 - @EfsaneStar Kim yazdı O kadar olsun düzenliyoruz. 
 from pyrogram import Client
 from pyrogram.types import ChatMemberUpdated
 
