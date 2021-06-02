@@ -1,3 +1,5 @@
+# Yayında ve yapımda emeği geçen herkese teşekkürler. 
+
 from typing import Union, List
 
 from pyrogram import filters
