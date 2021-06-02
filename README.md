@@ -30,6 +30,15 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Infinity-Bots/GroupMusicPlayerBot)
 
+**Buradan pyrogram STRING_NAME alın**⬇️:
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@subinps/getStringName)
+
+## Uygulamaya Katkı Yapan ⬇️
+
+- 👨‍💻 [Mehmetbaba](https://t.me/EfsaneStar) 🇹🇷
+- 👨‍💻 [Desvelad Mehmet](https://t.me/mehmett_12) 🇹🇷
+
 
 
 
