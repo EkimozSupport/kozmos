@@ -24,7 +24,7 @@
 - `/pause` - pause song play
 - `/resume` - resume song play
 - `/skip` - play next song
-- `/end` - stop music play
+- `/end` - Müzik botu kapanır. 
 
 ### Deploy To Heroku</h4>
 
