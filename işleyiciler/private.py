@@ -18,17 +18,17 @@ Bu uygulamayı grubunuza ekleyin ve özgürce müzik çalın!**
             [
                 [
                     InlineKeyboardButton(
-                        " Katkıda bulunan 👨‍💻", url="https://t.me/mehmett_12")
+                        " Katkıda bulunan 👨‍💻", url="https://t.me/Efsanestar")
                   ],[
                     InlineKeyboardButton(
-                        " Sohbet Group 💬", url="https://t.me/sohbetskyfall"
+                        " Sohbet Group 💬", url="https://t.me/RgSohbet"
                     ),
                     InlineKeyboardButton(
-                        " Uygulama sahibi 👨‍💻", url="https://t.me/Efsanestar"
+                        " Uygulama sahibi 👨‍💻", url="https://t.me/Mehmett_12"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        " Support group 🎛️", url="https://t.me/Sohbetlobisi"
+                        " Support group 🎛️", url="https://t.me/RgBotSupport"
                     )]
             ]
         ),
@@ -42,7 +42,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/kanalEfsanestar")
+                        "🔊 Channel", url="https://t.me/RgChannell")
                 ]
             ]
         )
