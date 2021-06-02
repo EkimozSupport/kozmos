@@ -1,4 +1,5 @@
-# Vallahi müzik botu kolayıma geliyor Userbot yapımına geçiyoruz. 
+# Vallahi müzik botu kolayıma geliyor Userbot yapımına geçiyoruz.
+ 
 from typing import Callable
 
 from pyrogram import Client
