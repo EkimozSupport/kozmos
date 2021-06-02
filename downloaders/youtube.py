@@ -1,3 +1,4 @@
+# Bu repo @EfsaneStar a aittir. Yardım amaçlı tgden bilgi alabilirim. 
 from os import path
 
 from youtube_dl import YoutubeDL
