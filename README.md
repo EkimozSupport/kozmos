@@ -1,6 +1,6 @@
 <h2 align="centre">Telegram Grup Müzik Çalar Botu🎵</h2>
 
-### A bot that can play music on telegram group's voice call
+### Telegram grubunun sesli aramasinde müzik çalabilen bir bot
 
 <p align="center">
   <img src="https://telegra.ph/file/210a6cf99422cdd2d2902.jpg">
@@ -13,7 +13,7 @@
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-### Commands 🛠
+### Komutlar 🛠
 #### For all in group
 - `/play` - reply to youtube url or song file to play song
 - `/play <song name>` - play song you requested
