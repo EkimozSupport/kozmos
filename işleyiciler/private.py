@@ -16,17 +16,17 @@ Bu uygulamayı grubunuza ekleyin ve özgürce müzik çalın!**
             [
                 [
                     InlineKeyboardButton(
-                        " Katkıda bulunan 👨‍💻", url="https://t.me/Efsanestar")
+                        " Katkıda bulunan 👨‍💻", url="https://t.me/kizilsancaksahibi")
                   ],[
                     InlineKeyboardButton(
-                        " Sohbet Group 💬", url="https://t.me/RgSohbet"
+                        " Sohbet Group 💬", url="https://t.me/Smailesi"
                     ),
                     InlineKeyboardButton(
-                        " Uygulama sahibi 👨‍💻", url="https://t.me/Mehmett_12"
+                        " Uygulama sahibi 👨‍💻", url="https://t.me/TeleWistKral"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        " Support group 🎛️", url="https://t.me/RgBotSupport"
+                        " Support group 🎛️", url="https://t.me/sancakailesi"
                     )]
             ]
         ),
@@ -40,7 +40,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/RgChannell")
+                        "🔊 Channel", url="https://t.me/kizilsancakbilgi")
                 ]
             ]
         )
